@@ -49,7 +49,7 @@ img{
 
 .card-img{
   border-radius: var(--radius);
-  
+  position: relative;
 }
 .overlay{
   width: 288px;

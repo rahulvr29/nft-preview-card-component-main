@@ -56,17 +56,18 @@ img{
   height: 288px;
   border-radius: var(--radius);
   background-color: var(--clr-Cyan);
-  display: flex;
-  align-items: center;
-  justify-content: center;
   position: absolute;
   top: 0;
   left: 0;
   opacity: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
   
 }
 .card-image-container:hover .overlay{
-  opacity: 0.75;
+  opacity: 0.50;
+  color: var(--clr-Cyan);
   cursor: pointer;
 }
 .card-title{

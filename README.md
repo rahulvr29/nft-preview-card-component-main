@@ -11,8 +11,8 @@ Thanks for checking out this front-end coding challenge.
 **To do this challenge, you need a basic understanding of HTML and CSS.**
 
 ## TECH
-  HTML
-  CSS
+  - HTML
+  - CSS
 ### Built with
 
 - Semantic HTML5 markup
@@ -29,8 +29,8 @@ Your users should be able to:
 
 - View the optimal layout depending on their device's screen size
 - See hover states for interactive elements
-# links
 
-Live Site URL: 
+# links
+Live Site URL: https://sparkly-narwhal-2f9299.netlify.app/
 
 **Have fun building!** 🚀
